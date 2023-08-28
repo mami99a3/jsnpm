@@ -8,5 +8,14 @@
   },
   "keywords": [],
   "author": "Isaac Martinez <imartinez@govo.legal>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "date-fns": "^2.30.0"
+  },
+  "optionalDependencies": {
+    "eslint": "^8.47.0"
+  }
 }
