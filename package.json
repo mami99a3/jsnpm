@@ -10,7 +10,6 @@
   "author": "Isaac Martinez <imartinez@govo.legal>",
   "license": "MIT",
   "dependencies": {
-    "json-server": "^0.17.3",
     "moment": "^2.29.4",
     "webpack": "^5.88.2"
   },
