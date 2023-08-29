@@ -10,13 +10,13 @@
   "author": "Isaac Martinez <imartinez@govo.legal>",
   "license": "MIT",
   "dependencies": {
-    "moment": "^2.29.4",
-    "webpack": "^5.88.2"
+    "moment": "2.29.4",
+    "webpack": "5.88.2"
   },
   "devDependencies": {
-    "date-fns": "^2.30.0"
+    "date-fns": "2.30.0"
   },
   "optionalDependencies": {
-    "eslint": "^8.48.0"
+    "eslint": "8.48.0"
   }
 }
